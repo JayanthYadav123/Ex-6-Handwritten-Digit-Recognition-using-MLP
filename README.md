@@ -1,4 +1,4 @@
-# Ex-6-Handwritten Digit Recognition using MLP
+# Experiment-6---Heart-attack-prediction-using-MLP
 ## Aim:
       To Recognize the Handwritten Digits using Multilayer perceptron.
 ##  EQUIPMENTS REQUIRED:
